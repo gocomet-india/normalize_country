@@ -2653,9 +2653,9 @@ TW:
   alpha3: TWN
   fifa: TPE
   ioc: TPE
-  iso_name: Taiwan, Republic Of China
+  iso_name: Taiwan
   numeric: "158"
-  official: Republic of China
+  official: Taiwan
   short: Taiwan
   emoji: "\U0001F1F9\U0001F1FC"
   shortcode: ":flag-tw:"
